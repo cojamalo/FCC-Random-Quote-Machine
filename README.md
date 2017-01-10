@@ -1,6 +1,6 @@
 # FCC-Random-Quote-Machine
 
-This is the repository for my completion of the freeCodeCamp Build a Random Quote Machine project. Formatted for mobile use.
+This is the repository for my completion of the freeCodeCamp "Build a Random Quote Machine" project. Formatted for mobile use.
 
 A working version is at http://codepen.io/cojamalo/pen/wzJLpk.
 
