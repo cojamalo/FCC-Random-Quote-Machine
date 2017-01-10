@@ -1,4 +1,5 @@
 # FCC-Random-Quote-Machine
+Completion Date: Sep 26, 2016
 
 This is the repository for my completion of the freeCodeCamp "Build a Random Quote Machine" project. Formatted for mobile use.
 
