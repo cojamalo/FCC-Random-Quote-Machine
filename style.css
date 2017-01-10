@@ -1,0 +1,75 @@
+* {
+  font-family: 'Montserrat', sans-serif;
+}
+
+html {
+  background: #cfd8dc;
+}
+
+button {
+  margin: 10px;
+  font-size: 3vw;
+}
+
+p a {
+  color: white;
+}
+
+.btn {
+  height: 12vw;
+}
+
+.btn-large i {
+  font-size: 6vw;
+}
+
+#tweet-quote {
+  line-height: 12.5vw;
+}
+
+img {
+  margin: 0px;
+  width: 107vw;
+  height: 107vw;
+  position: absolute;
+  left: -20px;
+  -webkit-transition: opacity 1s ease-in-out;
+  -moz-transition: opacity 1s ease-in-out;
+  -o-transition: opacity 1s ease-in-out;
+  transition: opacity 1s ease-in-out;
+}
+
+.transparent {
+  opacity: 0;
+}
+
+.display {
+  display: none;
+}
+
+h5 {
+  position: absolute;
+  top: 35%;
+  left: 30%;
+  width: 47vw;
+  color: white;
+  font-size: 3vw;
+  font-weight: 900;
+  z-index: 1000;
+  text-align: left;
+  text-transform: uppercase;
+}
+
+h5 a {
+  color: white;
+}
+
+.image {
+  position: relative;
+  height: 107vw;
+}
+
+#tagline {
+  margin-top: 3vw;
+  color: 808080;
+}
