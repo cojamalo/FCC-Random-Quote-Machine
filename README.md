@@ -9,6 +9,6 @@ A working version is at http://codepen.io/cojamalo/pen/wzJLpk.
 The project is an example of a simple AJAX request to Reddit.com. Retrieves data in JSON format and processes to display reddit thumbnails and to create clickable image links to original post of the image. Also features HTML form with search box and submit button.
 
 
-Powered by the Reddit API. Project coded by Connor Lenio ©2016.
+Powered by the Reddit API. Project coded by Connor Lenio - released into the public domain for educational purposes in 2016.
 
 Frame vector designed by Freepik.
